@@ -67,6 +67,8 @@ public class Pizzas {
         }
         return "Pizzas {" + "tama\u00f1o = " + tamaño + ", tipo = " + tipo + ", estado = " + sirve + '}';
     }
-    
+    public void pruebaGithub (){
+        System.out.println("We are in Github");
+    }
     
 }
